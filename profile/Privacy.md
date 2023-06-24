@@ -8,4 +8,5 @@
 - Command date;
 - What was obtained;
 - Who sent it (if you received it).
-- Important notice, if you have any questions about data, please contact our @ [discord.gg/dreamteam](https://discord.gg/dreamteam).
+
+> If you have any questions about data, please contact our @ [discord.gg/dreamteam](https://discord.gg/dreamteam).
